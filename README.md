@@ -1,10 +1,21 @@
 # Stanford Product Management
 
+XPRODMGT110
+
+---
+![Splash](docs/images/XPRODMGT110.jpg)
+
+---
+
 Transforming Opportunities into Great Products
 
 - [Stanford Product Management](#stanford-product-management)
   - [Product Manager Principles](#product-manager-principles)
   - [Product Lifecycle](#product-lifecycle)
+  - [Problem Space vs Solution Space](#problem-space-vs-solution-space)
+  - [Opportunity Statement](#opportunity-statement)
+
+---
 
 ## Product Manager Principles
 
@@ -24,3 +35,25 @@ Product Lifecycle is a generic framework for solving problems.
 3. Build
 4. Ship
 5. Measure
+
+## Problem Space vs Solution Space
+
+_"If I had asked people what they wanted, they would have said faster horses"_ - Henry Ford
+
+Clearly identify the line between _Problem Space_ and _Solution Space._
+
+One of core roles as PM is to hear what customers are asking in the Problem Space and interpret that in the Solution Space.
+
+Problem space has no solutions allowed. How things work today and understand reality.
+
+Solution Space requires clear problem statement and focuses on how to focus the problem.
+
+## Opportunity Statement
+
+The framing of the opportunity statement starts with __"How might we..."__
+
+- _"How"_ Assumes there is a solution
+
+- _"Might"_ It's ok if not the right solution
+
+- _"We"_ Something the team can achieve together
